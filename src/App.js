@@ -1,4 +1,6 @@
 import logo from './logo.svg';
+import {connect} from "react-redux";
+import {bindActionCreators} from "redux";
 import './App.css';
 
 function App() {
